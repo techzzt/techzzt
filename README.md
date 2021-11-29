@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Techzzt's GitHub stats](https://github-readme-stats.vercel.app/api?username=techzzt&show_icons=true&theme=radical)
+
+[!Language](https://img.shields.io/badge/Language-python-blue)
