@@ -2,6 +2,13 @@
 
 There's no silver bullet
 
+### 🌱 Interest
+- **Anomaly Detection**
+- **Image Processing using Deep Learning**
+    - Classification
+    - Image Representation Model (Mask based method, Generative model)
+    - Segmentation
+
 <!--
 **techzzt/techzzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
