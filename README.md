@@ -4,9 +4,16 @@ There's no silver bullet
 
 ### 🌱 Interest
 - **Anomaly Detection**
+    - Time-series Anomaly detection 
+        - Transformer
+        - Generative model 
+        
 - **Image Processing using Deep Learning**
     - Classification
-    - Image Representation Model (Mask based method, Generative model)
+    - Image Representation Model 
+        - Mask based method
+        - Generative model
+        - Vision Transformer 
     - Segmentation
 
 <!--
