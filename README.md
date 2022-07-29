@@ -7,6 +7,7 @@ There's no silver bullet
     - Time-series Anomaly detection 
         - Transformer
         - Generative model 
+        - Representation
         
 - **Image Processing using Deep Learning**
     - Classification
@@ -14,7 +15,7 @@ There's no silver bullet
         - Mask based method
         - Generative model
         - Vision Transformer 
-    - Segmentation
+    - Semantic Segmentation
 
 <!--
 **techzzt/techzzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
