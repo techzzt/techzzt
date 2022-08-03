@@ -8,7 +8,8 @@ There's no silver bullet
         - Transformer
         - Generative model 
         - Representation
-        
+    - Image Anomaly Detection
+    
 - **Image Processing using Deep Learning**
     - Classification
     - Image Representation Model 
