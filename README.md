@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 There's no silver bullet
 
