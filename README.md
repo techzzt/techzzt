@@ -1,7 +1,5 @@
 ### Hi 👋
 
-There's no silver bullet
-
 ### 🌱 Interest
 - **Anomaly Detection**
     - Time-series Anomaly detection 
