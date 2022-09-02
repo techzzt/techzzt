@@ -17,7 +17,8 @@
     - Semantic Segmentation
 
 - **Learning Theory**
-    - Self-Supervised Learning 
+    - Self-Supervised Learning
+    - Contrastive Learning
     
 <!--
 **techzzt/techzzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
