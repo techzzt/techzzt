@@ -5,7 +5,7 @@
     - Time-series Anomaly detection 
         - Transformer
         - Generative model 
-        - Representation
+        - Representation Learning
     - Image Anomaly Detection
     
 - **Image Processing using Deep Learning**
