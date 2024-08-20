@@ -7,14 +7,6 @@
         - Generative model 
         - Representation Learning
     - Image Anomaly Detection
-    
-- **Image Processing using Deep Learning**
-    - Classification
-    - Image Representation Model 
-        - Mask based method
-        - Generative model
-        - Vision Transformer 
-    - Semantic Segmentation
 
 - **Learning Theory**
     - Self-Supervised Learning
