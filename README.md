@@ -6,7 +6,6 @@
         - Transformer
         - Generative model 
         - Representation Learning
-    - Image Anomaly Detection
 
 - **Learning Theory**
     - Self-Supervised Learning
