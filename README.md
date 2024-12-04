@@ -7,9 +7,8 @@
         - Generative model 
         - Representation Learning
 
-- **Learning Theory**
-    - Self-Supervised Learning
-    - Contrastive Learning
+- **Neuroscience**
+    - Computational Model 
     
 <!--
 **techzzt/techzzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
