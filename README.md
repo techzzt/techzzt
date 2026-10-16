@@ -1,29 +1,15 @@
-### Hi 👋
+### Jieun Kim
 
-### 🌱 Interest
-- **Anomaly Detection**
-    - Time-series Anomaly detection 
-        - Transformer
-        - Generative model 
-        - Representation Learning
+I study how humans and AI systems process information differently, especially when real-world data are incomplete or noisy, and use that to build AI that can take on tasks only humans can do today.
 
-- **Neuroscience**
-    - Computational Model 
-    
-<!--
-**techzzt/techzzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Research interests**
+- Learning from incomplete, irregular time series (Neural ODEs, Transformers, anomaly detection)
+- Trustworthy and explainable AI
+- Computational neural modeling (spiking neural networks)
 
-Here are some ideas to get you started:
+**Selected work**
+- Spiking network model of the cortico-basal ganglia loop, KIST · SfN 2025
+- Neural ODE anomaly detection for irregular building sensor data, Georgia Tech
+- Distribution-based Transformer for time-series imputation, M.S. thesis, Korea University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+[Homepage](https://techzzt.github.io/jieunkim) · [CV](https://techzzt.github.io/jieunkim/CV_JieunKim.pdf) · jieunkim.cs@gmail.com
