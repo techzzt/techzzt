@@ -11,5 +11,3 @@ I study how humans and AI systems process information differently, especially wh
 - Spiking network model of the cortico-basal ganglia loop, KIST · SfN 2025
 - Neural ODE anomaly detection for irregular building sensor data, Georgia Tech
 - Distribution-based Transformer for time-series imputation, M.S. thesis, Korea University
-
-[Homepage](https://techzzt.github.io/jieunkim) · [CV](https://techzzt.github.io/jieunkim/CV_JieunKim.pdf) · jieunkim.cs@gmail.com
