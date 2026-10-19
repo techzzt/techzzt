@@ -1,21 +1,20 @@
-### Jieun Kim
+## Jieun Kim
 
-**Interests**
-- Learning from incomplete, irregular, real-world time series
-- Anomaly detection and representation learning
-- Trustworthy and explainable AI
-- How humans and AI process information differently
+Machine learning researcher working on **time series, anomaly detection, and explainable AI**.
+I am interested in how humans and AI process information differently, and in building AI that can take on tasks only humans can do today.
 
-**What I have worked on**
-- Neural ODE anomaly detection for unlabeled, irregularly sampled building sensor data (Georgia Tech)
-- Distribution-based Transformer for time-series missing-value imputation (M.S. thesis, Korea University)
-- Sensor anomaly detection with SHAP explanations for fuel-cell vehicles (Hyundai Motor Group)
-- Health index and remaining-useful-life estimation for industrial pumps
-- Deepfake audio detection with Whisper and LLMs (DACON)
+#### Interests
+`Irregular & incomplete time series` `Anomaly detection` `Representation learning` `Explainable AI` `Human vs. machine information processing`
 
-**What I want to do next**
-- Build AI that can take on tasks only humans can do today, by understanding where human and machine information processing differ
+#### Work
 
-**Skills**
-- Python: PyTorch, TensorFlow, scikit-learn, pandas
-- R, Git, LaTeX, Matplotlib, Tableau
+| Topic | What I built |
+| --- | --- |
+| Irregular time series | Neural ODE model that detects anomalies in unlabeled, irregularly sampled sensor data |
+| Missing values | Distribution-based Transformer for time-series imputation |
+| Explainable anomaly detection | Autoencoder anomaly detector with SHAP explanations for vehicle sensor data |
+| Predictive maintenance | Health index and remaining-useful-life estimation for industrial pumps |
+| Deepfake audio | Detection pipeline combining Whisper transcription with LLM analysis |
+
+#### Skills
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `pandas` `R` `Git` `LaTeX` `Matplotlib`
